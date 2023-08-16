@@ -2,5 +2,6 @@
 
 
 fn main() {
-    println!("Hello, world!");
+    let str_var: &str = "Hi"
+    println!("{}", str_var);
 }
