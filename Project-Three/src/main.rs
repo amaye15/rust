@@ -2,6 +2,6 @@
 
 
 fn main() {
-    let str_var: &str = "Hi"
+    let str_var: &str = "Hi";
     println!("{}", str_var);
 }
