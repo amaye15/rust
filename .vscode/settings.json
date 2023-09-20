@@ -1,7 +1,8 @@
 {
-    "rust-analyzer.linkedProjects": [
-        "./Project-One/Cargo.toml",
-        "./Project-Two/Cargo.toml",
-        "./Project-Three/Cargo.toml"
-    ]
+  "rust-analyzer.linkedProjects": [
+    "./Project-One/Cargo.toml",
+    "./Project-Two/Cargo.toml",
+    "./Project-Three/Cargo.toml",
+    "./Project-Four/Cargo.toml"
+  ]
 }
