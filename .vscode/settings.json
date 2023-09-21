@@ -3,6 +3,7 @@
     "./Project-Two/Cargo.toml",
     "./Project-Three/Cargo.toml",
     "./Project-Four/Cargo.toml",
-    "./Project-One/Cargo.toml"
+    "./Project-One/Cargo.toml",
+    "./Project-Five/Cargo.toml"
   ]
 }
