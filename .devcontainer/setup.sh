@@ -11,7 +11,10 @@ apt-get install -y \
   build-essential \
   openssl \
   pkg-config \
-  libssl-dev
+  libssl-dev \
+  python3 \
+  python3-venv \
+  python3-pip
 
 ## Install rustup and common components
 curl https://sh.rustup.rs -sSf | sh -s -- -y 
