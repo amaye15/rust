@@ -1,0 +1,15 @@
+[package]
+name = "Project-Seven"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = { version = "0.11", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1", features = ["full"] }
+polars = { version = "0.37", features = ["lazy", "temporal", "describe", "json", "parquet", "dtype-datetime"] } # Adjust for the latest version
+#polars_io = { version = "0.36" }
+chrono = "0.4"

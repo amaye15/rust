@@ -5,6 +5,7 @@
     "./Project-Four/Cargo.toml",
     "./Project-One/Cargo.toml",
     "./Project-Five/Cargo.toml",
-    "./Project-Six/Cargo.toml"
+    "./Project-Six/Cargo.toml",
+    "./Project-Seven/Cargo.toml"
   ]
 }
